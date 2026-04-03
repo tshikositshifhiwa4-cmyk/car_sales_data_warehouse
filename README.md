@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F8C8DC&height=200&section=header&text=Car%20Sales%20Data%20Engineering%20Project&fontSize=32&fontColor=000000&animation=fadeIn" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=200&section=header&text=Car%20Sales%20Data%20Engineering%20Project&fontSize=30&fontColor=000000&animation=fadeIn" /> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F8C8DC&size=28&center=true&vCenter=true&width=600&lines=Python" />
@@ -23,10 +21,10 @@ It serves as a foundation for building **ETL pipelines, data warehouses, and bus
 ##  Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python%20(pandas)-F8C8DC?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-F8C8DC?style=for-the-badge&logo=snowflake&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python%20(pandas)-FFD1DC?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/SQL-2F2F2F?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-E0F7FA?style=for-the-badge&logo=snowflake&logoColor=29B5E8"/>
+  <img src="https://img.shields.io/badge/GitHub-3A3A3A?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
