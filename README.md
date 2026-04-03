@@ -134,6 +134,8 @@ It serves as a foundation for building **ETL pipelines, data warehouses, and bus
 * Enable data visualization and insights using **Tableau**
 
 ---
+### star schema view
+<img width="867" height="732" alt="car sales star schema" src="https://github.com/user-attachments/assets/479dda88-e6af-4b5b-b7a7-5c4c096388d6" />
 
 ##  Future Improvements
 
