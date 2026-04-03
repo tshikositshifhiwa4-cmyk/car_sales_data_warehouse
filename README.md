@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=200&section=header&text=Car%20Sales%20Data%20Engineering%20Project&fontSize=30&fontColor=000000&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,FFC0CB&height=220&section=header&text=Car%20Sales%20Data%20Engineering%20Project&fontSize=32&fontColor=000000&animation=twinkling" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F8C8DC&size=28&center=true&vCenter=true&width=600&lines=Python" />
 </p>
 
 #  Car Sales Analysis
