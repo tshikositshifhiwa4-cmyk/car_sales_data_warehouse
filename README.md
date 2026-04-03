@@ -141,7 +141,7 @@ It serves as a foundation for building **ETL pipelines, data warehouses, and bus
 
 * Build ETL pipeline using Python
 * Load data into Snowflake
-* Create dashboards (Power BI / Looker Studio)
+* Create dashboards (Tableau)
 * Add data validation and testing
 
 ---
